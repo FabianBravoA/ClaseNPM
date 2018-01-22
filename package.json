@@ -4,7 +4,7 @@
     "description": "Clase de npm, babel, eslint para laboratoria",
     "main": "index.js",
     "scripts": {
-        "test": "mocha",
+        "test": "mocha --reporter nyan",
         "build": "babel src -d lib"
     },
     "author": "Fabián Bravo <fabian.bravo.abarca@gmail.com>",
